@@ -27,4 +27,36 @@ body {
 
 h2 {
     margin: 0;
+    color: #8CABFF;
+}
+
+#dbs {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+    border: dashed 6px magenta;
+}
+
+#Palmer-Wholesale {
+    font-family: 'Times New Roman', Times, serif;
+    border: solid 1px #D4ADFC;
+}
+
+#youth-villages {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: double 5px #D21312;
+}
+
+#tokyo-grill {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 8px dotted #03C988;
+}
+
+#ihop {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 3px ridge goldenrod;
+}
+
+#mcdonalds {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: 15px inset #C7EA46;
 }
